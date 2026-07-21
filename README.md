@@ -2,7 +2,7 @@
 
 **Sócio da [iiLEX Software Jurídico](https://iilex.com.br)** · DevOps & Desenvolvedor · Legal Tech · Porto Alegre, RS, Brasil
 
-Sou sócio da iiLEX Software Jurídico, plataforma de gestão jurídica usada por escritórios de advocacia e departamentos jurídicos em todo o Brasil. Atuo entre infraestrutura (DevOps), desenvolvimento de produto e direção de produto, sempre próximo do time de Projetos.
+Sou sócio da iiLEX Software Jurídico, plataforma de gestão jurídica usada por escritórios de advocacia e departamentos jurídicos em todo o Brasil. Atuo entre infraestrutura (DevOps), desenvolvimento de produto e direção de produto, sempre próximo do time de Projetos e Atendimento.
 
 ## Onde me encontrar
 
