@@ -25,10 +25,6 @@ A [iiLEX](https://iilex.com.br) é um software jurídico completo para escritór
 
 Participo da comunidade de tecnologia de Porto Alegre — GDG Porto Alegre, DevFest Porto Alegre e eventos como a ClawCon — trocando ideias sobre arquitetura, IA aplicada e o futuro do desenvolvimento de produtos.
 
-## Formação
-
-Universidade do Vale do Rio dos Sinos (UNISINOS) · Certificação LPI (Linux Professional Institute)
-
 ---
 
-Ulises de Oliveira Bravo — Sócio iiLEX Software Jurídico — DevOps — Desenvolvedor — Legal Tech — Porto Alegre, Brasil
+Ulises de Oliveira Bravo — Sócio iiLEX Software Jurídico — DevOps — Desenvolvedor — Legal Tech — LPI - Porto Alegre, Brasil
