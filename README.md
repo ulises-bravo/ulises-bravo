@@ -11,20 +11,6 @@ Sou sócio da iiLEX Software Jurídico, plataforma de gestão jurídica usada po
 - X (Twitter): [@ulisesbravo_](https://twitter.com/ulisesbravo_)
 - Localização: Porto Alegre, RS, Brasil
 
-## O que eu faço
-
-- **DevOps & Infraestrutura** — arquitetura, automação e confiabilidade da plataforma iiLEX.
-- **Desenvolvimento** — construção de produto do software jurídico iiLEX.
-- **Direção de produto** — como sócio, ajudo a definir a visão e a experiência dos produtos da iiLEX junto ao time de Projetos.
-
 ## Sobre a iiLEX
 
 A [iiLEX](https://iilex.com.br) é um software jurídico completo para escritórios de advocacia e departamentos jurídicos, centralizando processos, prazos, publicações, CRM jurídico, gestão financeira e automações em uma única plataforma.
-
-## Comunidade
-
-Participo da comunidade de tecnologia de Porto Alegre — GDG Porto Alegre, DevFest Porto Alegre e eventos como a ClawCon — trocando ideias sobre arquitetura, IA aplicada e o futuro do desenvolvimento de produtos.
-
----
-
-Ulises de Oliveira Bravo — Sócio iiLEX Software Jurídico — DevOps — Desenvolvedor — Legal Tech — LPI - Porto Alegre, Brasil
