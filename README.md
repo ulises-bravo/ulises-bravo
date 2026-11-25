@@ -2,7 +2,7 @@
 
 **Dev | Legal Tech | Product Owner na [iiLEX Software Jurídico](https://iilex.com.br)** · Porto Alegre, RS, Brasil
 
-A iiLEX Software Jurídico é uma plataforma de gestão jurídica usada por escritórios de advocacia e departamentos jurídicos em todo o Brasil. Atuo entre infraestrutura (DevOps), desenvolvimento de produto e direção de produto, sempre próximo do time de Projetos e Atendimento.
+A iiLEX Software Jurídico é uma plataforma de gestão jurídica usada por escritórios de advocacia e departamentos jurídicos em todo o Brasil. Atuo entre infraestrutura (DevOps), desenvolvimento de produto e direção de produto, sempre em conjunto do time de Desenvolvimento.
 
 ## O que eu publico
 
